@@ -1,0 +1,16 @@
+[
+  {
+    "name": "albums-id",
+    "path": "/albums/:id?",
+    "component": "/Volumes/Extension-HD/Cursos/codigoFacilito/nuxt-taller/pages/albums/_id.vue",
+    "chunkName": "pages/albums/_id",
+    "_name": "_0c0f4510"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Extension-HD/Cursos/codigoFacilito/nuxt-taller/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_420c1679"
+  }
+]

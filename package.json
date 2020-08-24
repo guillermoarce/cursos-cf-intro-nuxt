@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-taller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bulma": "^0.9.0",
+    "nuxt": "^2.14.3",
+    "vue-router": "^3.4.3"
+  }
+}
